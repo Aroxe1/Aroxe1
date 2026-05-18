@@ -16,7 +16,7 @@ Bienvenue sur mon profil GitHub. Je suis étudiant et futur développeur, passio
 
 **Bases de données & Scripting :**
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash]
 
 ## 🚀 Projets Récents & En Cours
 
