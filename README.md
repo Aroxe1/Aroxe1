@@ -14,16 +14,13 @@ Bienvenue sur mon profil GitHub. Je suis étudiant et futur développeur, passio
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Bases de données & Scripting :**
+**Bases de données :**
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bash]
 
 ## 🚀 Projets Récents & En Cours
 
 *   💻 **Portfolio Personnel :** Conception de mon site web vitrine interactif en utilisant **Vue.js** et Vite, avec des effets de mouvement et des animations CSS (comme un arrière-plan étoilé dynamique).
 *   👻 **Clone de Pac-Man :** Développement complet du jeu d'arcade classique en **Java** (utilisant JavaFX et SceneBuilder), gérant la logique de la grille, le rendu des entités et les événements de déplacement (ZQSD).
-*   ⚽ **Générateur de Classement :** Création d'un script **Bash** qui traite des données CSV de matchs de football pour calculer les points et générer un tableau de classement en **HTML**.
-*   🔒 **Cybersécurité :** Expérimentations avec **Python** (scripts de force brute via itertools) et étude des attaques Man-in-the-Middle (MITM).
 
 ## 🎯 Mes Objectifs
 
