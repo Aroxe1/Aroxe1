@@ -19,8 +19,8 @@ Bienvenue sur mon profil GitHub. Je suis étudiant et futur développeur, passio
 
 ## 🚀 Projets Récents & En Cours
 
-*   💻 **Portfolio Personnel :** Conception de mon site web vitrine interactif en utilisant **Vue.js** et Vite, avec des effets de mouvement et des animations CSS (comme un arrière-plan étoilé dynamique).
-*   👻 **Clone de Pac-Man :** Développement complet du jeu d'arcade classique en **Java** (utilisant JavaFX et SceneBuilder), gérant la logique de la grille, le rendu des entités et les événements de déplacement (ZQSD).
+*   💻 **Portfolio Personnel :** Conception de mon site web vitrine interactif en utilisant **Vue.js** et Vite.
+*   👻 **Clone de Pac-Man :** Développement complet du jeu d'arcade classique en **Java** (utilisant JavaFX et SceneBuilder).
 
 ## 🎯 Mes Objectifs
 
