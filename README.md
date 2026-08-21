@@ -1,6 +1,6 @@
 # Salut, je suis Maxence ! 👋
 
-Bienvenue sur mon profil GitHub. Je suis étudiant et futur développeur, passionné par la création d'applications logicielles et d'interfaces web interactives. Je suis actuellement à la recherche d'un **stage pour avril 2027**.
+Bienvenue sur mon profil GitHub. Je suis étudiant et futur développeur, passionné par la création d'applications logicielles et d'interfaces web interactives. Je suis actuellement à la recherche d'un **stage pour avril 2027** et d'une **alternance pour septembre 2027**.
 
 ## 🛠️ Mes Compétences Techniques
 
@@ -20,13 +20,9 @@ Bienvenue sur mon profil GitHub. Je suis étudiant et futur développeur, passio
 ## 🚀 Projets Récents & En Cours
 
 *   💻 **Portfolio Personnel :** Conception de mon site web vitrine interactif en utilisant **Vue.js** et Vite.
-*   👻 **Clone de Pac-Man :** Développement complet du jeu d'arcade classique en **Java** (utilisant JavaFX et SceneBuilder).
+*   🚧 **Factory Tycoon :** Apprentissage et développement d'un jeu Roblox avec le moteur de jeu Roblox Studio et apprentissage de **Luau**.
 
 ## 🎯 Mes Objectifs
 
 *   Continuer à perfectionner mes compétences en développement Full-Stack et découvrir de nouvelles architectures.
-*   Intégrer une équipe technique dynamique lors de mon **stage d'avril 2027** pour contribuer à des projets concrets et gagner en expérience professionnelle.
-
-## 📫 Me Contacter
-
-N'hésitez pas à consulter mes dépôts ci-dessous ou à me contacter pour toute opportunité !
+*   Recherche un **stage en avril 2027** et une **alternance en septembre 2027** pour contribuer à des projets concrets et gagner en expérience professionnelle.
