@@ -1,28 +1,65 @@
 # Salut, je suis Maxence ! 👋
 
-Bienvenue sur mon profil GitHub. Je suis étudiant et futur développeur, passionné par la création d'applications logicielles et d'interfaces web interactives. Je suis actuellement à la recherche d'un **stage pour avril 2027** et d'une **alternance pour septembre 2027**.
+Je suis étudiant en 2ᵉ année de **BUT Informatique** à l'IUT de Lens, et je me spécialise en développement web. J'aime autant que le code tourne bien que l'interface soit belle à regarder — construire des choses qui servent vraiment à quelqu'un, voilà ce qui me motive.
 
-## 🛠️ Mes Compétences Techniques
+🔍 Je recherche actuellement :
+- un **stage** pour **avril 2027** (8 à 10 semaines)
+- une **alternance** pour **septembre 2027**, sur Lille, Lens, Arras et alentours
 
-**Développement Web Front-end :**
+## 🛠️ Compétences techniques
+
+**Développement web front-end**
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-**Développement Back-end & Logiciel :**
+**Back-end & développement logiciel**
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-**Bases de données :**
+**Bases de données & réseau**
+
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🚀 Projets Récents & En Cours
+**Outils**
 
-*   💻 **Portfolio Personnel :** Conception de mon site web vitrine interactif en utilisant **Vue.js** et Vite.
-*   🚧 **Factory Tycoon :** Apprentissage et développement d'un jeu Roblox avec le moteur de jeu Roblox Studio et apprentissage de **Luau**.
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🎯 Mes Objectifs
+## 🚀 Projets
 
-*   Continuer à perfectionner mes compétences en développement Full-Stack et découvrir de nouvelles architectures.
-*   Recherche un **stage en avril 2027** et une **alternance en septembre 2027** pour contribuer à des projets concrets et gagner en expérience professionnelle.
+| Projet | Description | Stack |
+|---|---|---|
+| 🃏 [**Blackjack**](https://github.com/Aroxe1/Blackjack) | Jeu de Blackjack en Java — interface graphique en cours de développement | Java |
+| 💪 [**NextRep**](https://github.com/Aroxe1/App-programme-musculation) | App de suivi de musculation : mode hors ligne, comptes/synchro Firebase, système de rangs par groupe musculaire, scanner de code-barres | HTML, JavaScript, Firebase, CSS |
+| 🔎 [**NetScan**](https://github.com/Aroxe1/NetScan) | Analyseur de faille réseau : scan de ports parallélisé, détection des services à risque, rapport .txt/.json | Python |
+| 👻 [**Pacman**](https://github.com/Aroxe1/Pacman) | Jeu Pacman avec interface JavaFX, découpage MVC | Java, JavaFX |
+| 🌐 [**Site de teambuilding**](https://github.com/Aroxe1) | Conception UI/UX (maquettes, charte graphique) et intégration front-end responsive, en méthode agile — IUT Lens | HTML, CSS |
+
+## 🎓 Formation
+
+- **BUT Informatique**, 2ᵉ année — IUT de Lens (depuis 2025)
+- **Baccalauréat Informatique**, spécialité Systèmes d'Information et Numérique (SIN) — Lycée Albert Châtelet (2024–2025)
+
+## 💼 Expériences
+
+- **Employé polyvalent** — Au Verger des 7 Vallées, Blangy-sur-Ternoise (avr.–juil. 2026) : caisse, mise en rayon, relation client
+- **Membre du Bureau des Étudiants (BDE)** — IUT Lens (depuis 2025) : organisation d'événements pour les étudiants du département
+
+## 🎯 Objectifs
+
+- Continuer à progresser en développement full-stack et découvrir de nouvelles architectures
+- Rejoindre une équipe où construire des choses concrètes, utiles, et apprendre sur le terrain
+
+## 📫 Me contacter
+
+- 📧 r.maxence@outlook.com
+- 📱 06 73 46 71 46
+- 📍 Lens (62300) — mobile sur Arras, Lille, Béthune, Lens
+- 🌐 [Portfolio](https://claude.ai/artifact/5GkT4V8SjjtziqLC5Rpq7u)
