@@ -1,7 +1,7 @@
 <h1 align="center">Salut, je suis Maxence ! 👋</h1>
 
 <p align="center">
-  Étudiant en 2ᵉ année de <b>BUT Informatique</b> à l'IUT de Lens · Développement web
+  Étudiant en 2ᵉ année de <b>BUT Informatique</b> à l'IUT de Lens · Développement web & application
 </p>
 
 ---
@@ -24,19 +24,19 @@ J'aime autant que le code tourne bien que l'interface soit belle à regarder —
 **Back-end & logiciel**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,php" alt="Java, Python, PHP" />
+  <img src="https://skillicons.dev/icons?i=java,py,php,laravel" alt="Java, Python, PHP, Laravel" />
 </p>
 
 **Bases de données**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres" alt="SQL, PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="SQL, SQLite, PostgreSQL" />
 </p>
 
 **Outils**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode" alt="Git, Linux, VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,idea" alt="Git, Linux, VS Code, IntelliJ IDEA" />
 </p>
 
 ## 🎓 Formation
