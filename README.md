@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="github_banner_maxence_royon_long.gif" alt="Maxence Royon" width="100%" />
+</div>
+
 <h1 align="center">Salut, je suis Maxence ! 👋</h1>
 
 <p align="center">
